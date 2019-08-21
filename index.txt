@@ -1,0 +1,8 @@
+<!doctype html>
+<head>
+  <h1>> Hello, my name is Katheryna. </h1>
+  <h2> Welcome to my online portfolio. </h2>
+  <p style="text-align: left;"> This website has been coded entirely by me. This serves as a passion project for my interest in coding and developing. </p>
+
+
+</head>
